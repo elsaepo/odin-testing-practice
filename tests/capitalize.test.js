@@ -1,4 +1,4 @@
-import capitalize from "./capitalize";
+import capitalize from "../capitalize";
 
 test("test", () => {
     expect(1).toBe(1);
